@@ -1,3 +1,4 @@
+import Card from "./Card/Card"
 import "./Hero.scss"
 import { motion } from "framer-motion"
 const Hero = () => {
@@ -11,6 +12,7 @@ const Hero = () => {
         <h1>Software Developer</h1>
         </div>
         <div className="buttons">
+        <Card />
         </div>
         </div>
 
