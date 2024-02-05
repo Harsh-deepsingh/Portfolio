@@ -7,7 +7,7 @@ const items= [
     {
         id: 1,
         title: "E-commerce",
-        img: "https://media.istockphoto.com/id/533957701/photo/whiskey-and-natural-ice.jpg?s=1024x1024&w=is&k=20&c=1pcq97TjXDIEfykPStNFQTKHslWyUl1wr2Yk0tFIJLM=",
+        img: "Ecommerce .png",
         desc: "lorem hello how this is it when ever their so how is that",
         gitLink: "https://github.com/Harsh-deepsingh/E-commerce-",
         demo: "#"
@@ -15,7 +15,7 @@ const items= [
     {
         id: 2,
         title: "Ironman AI",
-        img: "https://media.istockphoto.com/id/533957701/photo/whiskey-and-natural-ice.jpg?s=1024x1024&w=is&k=20&c=1pcq97TjXDIEfykPStNFQTKHslWyUl1wr2Yk0tFIJLM=",
+        img: "IronMan.png",
         desc: "lorem hello how this is it when ever their so how is that",
         gitLink: "https://github.com/Harsh-deepsingh/Iron-Man",
         demo: "#"
@@ -23,7 +23,7 @@ const items= [
     {
         id: 3,
         title: "Job Tracker",
-        img: "https://media.istockphoto.com/id/533957701/photo/whiskey-and-natural-ice.jpg?s=1024x1024&w=is&k=20&c=1pcq97TjXDIEfykPStNFQTKHslWyUl1wr2Yk0tFIJLM=",
+        img: "job.png",
         desc: "lorem hello how this is it when ever their so how is that hello how this is it when ever their so how is that",
         gitLink: "https://github.com/Harsh-deepsingh/Chrome-Extension",
         demo: "#"
