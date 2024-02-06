@@ -8,25 +8,25 @@ const items= [
         id: 1,
         title: "E-commerce",
         img: "Ecommerce .png",
-        desc: "lorem hello how this is it when ever their so how is that",
+        desc: "E-commerce website using Redux toolkit and fetching data from json file server with 404 page, Cart, Checkout, Forgot password, Login, order and user profile.",
         gitLink: "https://github.com/Harsh-deepsingh/E-commerce-",
-        demo: "#"
+        demo: "https://youtu.be/RoxxPXNC6vA"
     },
     {
         id: 2,
         title: "Ironman AI",
         img: "IronMan.png",
-        desc: "lorem hello how this is it when ever their so how is that",
+        desc: "Ironman AI build using React js and Express js by fetching Chat GPT API. Trained AI by giving custom prompts and securing the API key in .env file.",
         gitLink: "https://github.com/Harsh-deepsingh/Iron-Man",
-        demo: "#"
+        demo: "https://youtu.be/mDf91B86tCI"
     },
     {
         id: 3,
         title: "Job Tracker",
         img: "job.png",
-        desc: "lorem hello how this is it when ever their so how is that hello how this is it when ever their so how is that",
+        desc: "Simple but powerful tool build in JavaScript Web scraping the Position, company's Icon, Applicants, saving url in the image and saving all the data in Local Storage in browser.",
         gitLink: "https://github.com/Harsh-deepsingh/Chrome-Extension",
-        demo: "#"
+        demo: "https://youtu.be/u4bHGiFaf5I"
     }
 ]
 
